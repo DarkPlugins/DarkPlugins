@@ -93,6 +93,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darkplugins/darkplugins/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
+###
+
 <img align="left" height="350" src="https://i.imgur.com/YHFbeF5.png"  />
 
 ###
@@ -103,7 +105,7 @@
 
 ###
 
-<p align="right">🛠️ Building random personal projects so my PC has a purpose beyond YouTube, Shorts and opening Discord.<br><br>📚 Learning new technologies (or at least convincing myself that's what's happening).<br><br>🌙 Starting projects at 11 PM with absolutely no intention of finishing them before sunrise.<br><br>☕ Converting unhealthy amounts of caffeine into questionable engineering decisions.<br><br>🧠 Collecting obscure programming knowledge I'll probably never need again.<br><br>🔥 Having completely valid crashouts over problems that end up taking 2 clicks to solve.</p>
+<p align="center">🛠️ Building random personal projects so my PC has a purpose beyond YouTube, Shorts and opening Discord.<br><br>📚 Learning new technologies (or at least convincing myself that's what's happening).<br><br>🌙 Starting projects at 11 PM with absolutely no intention of finishing them before sunrise.<br><br>☕ Converting unhealthy amounts of caffeine into questionable engineering decisions.<br><br>🧠 Collecting obscure programming knowledge I'll probably never need again.<br><br>🔥 Having completely valid crashouts over problems that end up taking 2 clicks to solve.</p>
 
 ###
 
