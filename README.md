@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="350" src="https://media.tenor.com/oAfE6TgeoDAAAAAM/placeholder-text.gif"  />
+<img align="right" height="350" src="https://i.imgur.com/TOVuTV7.png"  />
 
 ###
 
